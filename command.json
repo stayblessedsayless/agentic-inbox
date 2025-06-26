@@ -1,5 +1,5 @@
 {
-  "id": "init-001",
-  "path": "bridge/test_ping.py",
-  "content": "print(\"✅ Command received and executed\")"
+  "id": "test-002",
+  "path": "bridge/ping_response.py",
+  "content": "print(\"Mothership response: pong.\")"
 }
