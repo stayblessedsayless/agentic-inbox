@@ -1,0 +1,5 @@
+{
+  "id": "init-001",
+  "path": "bridge/test_ping.py",
+  "content": "print(\"✅ Command received and executed\")"
+}
